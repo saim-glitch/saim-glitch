@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1D5E7,100:FFDB81&height=200&section=header&text=Hello%20World!&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 </div>
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there! I'm [Your Name]
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there! I'm Muhammad Saim Ali
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🤖+Machine+Learning+Engineer;🧠+AI+Solutions+Architect;🔬+Deep+Learning+Wizard;🚀+MLOps+Superhero;💡+Data+Science+Innovator;🎯+Neural+Network+Ninja" alt="Typing SVG" />
